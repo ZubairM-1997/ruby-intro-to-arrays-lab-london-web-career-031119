@@ -19,7 +19,7 @@ def new_Arr_thirdelement(array)
 end 
 
 def new_Arr_first_element(array)
-  array.first(array)
+  array.first
 end 
 
 def new_Arr_last_element(array)
