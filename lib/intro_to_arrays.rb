@@ -2,7 +2,7 @@ def make_new_Array
    Array.new
 end 
 
-def arr 
+def new_arr 
     ["volswagen", "bmw" , "mercedes", "rolls royce"]
 end 
 
